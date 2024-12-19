@@ -40,7 +40,6 @@
     <img src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask" width="40" />
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" />
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" width="40" />
-    <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" width="40" />
     <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" />
 
 </p>
