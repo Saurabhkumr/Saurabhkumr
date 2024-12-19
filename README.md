@@ -7,7 +7,6 @@
     <img src="https://komarev.com/ghpvc/?username=saurabhkumr&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkumr" />
 </p>
 
-- 🌱 I’m currently learning **MERN stack**  
 - 💻 I love building projects and exploring new technologies  
 - 🎯 My goal is to contribute to **open-source projects** and grow as a developer  
 - 📫 Reach me at **saurabhkr0927@gmail.com**  
@@ -22,22 +21,32 @@
     <a href="https://www.leetcode.com/saurabhkr0927" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" />
     </a>
+    <a href="https://x.com/saurabhkr_027" target="blank">
+        <img align="center" src="https://img.icons8.com/color/48/000000/twitterx.png" alt="X Profile" width="40" />
+    </a>
 </p>
 
 ---
 
 ### 🚀 Languages and Tools:
 <p align="left">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" />
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" />
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" />
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" />
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" />
     <img src="https://img.icons8.com/ultraviolet/40/react.png" alt="React" width="40" />
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" />
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" />
+    <img src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask" width="40" />
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" />
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" width="40" />
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" />
     <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" />
-    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" />
+    <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" width="40" />
+    <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" />
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" />
 </p>
+
 
 ---
 
@@ -49,13 +58,6 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkumr&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-### 🏆 Achievements:
-- Solved 100+ problems on **LeetCode**
-- Built an **AI Image Generator** using OpenAI API  
-- Developed a **Real Estate MERN Stack Project**
 
 ---
 
